@@ -1,0 +1,54 @@
+---
+date: 2025-02-06
+tags:
+  - pipes/meetings
+published: true
+---
+- Spotkanie tydzień przed weselem
+- Przywitanie
+	- Czy chcemy wchodzić na salę pierwsi i wprowadzamy wszystkich na salę
+	- Czy wchodzimy balkonem czy ogrodem jak wjedziemy tandemem
+- (Nie)Toast
+	- Pierwszy toast, bez toastu tylko uroczyste rozpoczęcie
+- Usiąść do obiadu, potem życzenia
+	- Modlitwa przed posiłkiem?
+	- Co goście mają zrobić z prezentami na czas jedzenia
+	- Chcemy z kwiatami? Czy zbiórka? Potrzeba wiadro
+- Pierwszy taniec
+	- Ludzie dookoła czy półksiężyc
+- Terenówka
+	- Pieczątki i losowanie
+	- Finał na sali i nagrody
+- Cailie
+	- Dać utwory do których by chcieli, jak da radę to układy.
+	- Kilka epizodów czy jeden długi?
+	- Ile czasu? Pół godziny
+- Zabawy
+	- Lipdap
+		- Każdy dostaje kawałek znane utwory
+		- Ustawiają się w kolejności i udają że śpiewają a kamerzysta nagrywa
+		- Czy fotograf nam to zorganizuje
+		- Ci co są nie chętni to tylko idą na zdjęcie
+- Muzyka
+	- Czy disco polo typowe ale nie sprośne
+- Tort 21
+- Podziękowania
+	- Piosenka na dawanie tortu Tereska
+- Podziękowania dla rodziców
+	- Przytulanie się z rodzicami i dawanie kwiatów
+	- I granie do kółka Artura, raczej dłuższy utwór
+- Oczepiny
+	- Welony i muszki
+	- Tradycyjnie o północy
+- Kolacja (bufetowa)
+
+- Inne
+	- Czy sesja zdjęciowa w trakcie? W trakcie obiadu
+	- Czy chcemy robić zdjęcia przy kasynie? Podobny fajny obiekt
+	- Czy fortepian jest nastrojony? Czy na pianinie elektrycznym. Tak żeby nie było wiochy.
+	- Utwór na fortepian zlecić tortowy (Tereska) i na przytulanie (Artur)
+	- Opłacić muzykę [www.online.zaiks.org.pl](http://www.online.zaiks.org.pl) plus wysłać listę utworów
+		- Muzyka mechaniczna (odtwarzana a nie grana na żywo)
+		- Około 250zl
+		- Po imprezie listę piosenek która była grana
+	- Płatność po wszystkim 2000
