@@ -4,7 +4,7 @@ tags:
   - note-taking/obsidian
 child: 
 published: true
-title: taking Notes
+name: taking Notes
 ---
 - data and metadata in the same file
 
