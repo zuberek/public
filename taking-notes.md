@@ -2,8 +2,9 @@
 tags:
   - note-taking
   - note-taking/obsidian
-child: "[[Note added from the phone]]"
+child: 
 published: true
+title: taking Notes
 ---
 - data and metadata in the same file
 
@@ -15,4 +16,3 @@ published: true
 	- regular links for soft relations
 
 - use metadata as front matter
-[[Keyboard shortcuts]]
