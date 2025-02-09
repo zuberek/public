@@ -3,7 +3,7 @@ date: 2025-02-06
 tags:
   - pipes/meetings
 published: true
-name: dj
+name: Spotkanie DJ
 ---
 - Spotkanie tydzień przed weselem
 - Przywitanie
