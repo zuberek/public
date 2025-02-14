@@ -1,8 +1,7 @@
 ---
 tags:
-  - note-taking
-  - note-taking/obsidian
-child: 
+  - knowledge
+parent: "[[Knowledge]]"
 published: true
 name: taking Notes
 ---
